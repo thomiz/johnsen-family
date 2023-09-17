@@ -1,4 +1,4 @@
-## Wiese trunk tree
+## Wiese branch tree
 
 ```puml
 @startmindmap
@@ -51,4 +51,4 @@ Knut Olav Nyhus Olsen (1972);
 @endmindmap
 ```
 
-The Wiese trunk tree.
+The Wiese branch tree.
