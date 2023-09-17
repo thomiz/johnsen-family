@@ -3,8 +3,8 @@ repo_url: https://github.com/thomiz/johnsen-family
 repo_name: thomiz/johnsen-family
 site_author: Thomas T Rsoenlund
 nav:
-    - Johnsen: johnsen.md 
-    - Wiese: wiese-grenen.md
+    - Johnsen: 'index.md'
+    - Wiese: 'wiese-grenen.md'
     
 theme:
   name: material
@@ -18,7 +18,7 @@ theme:
     - content.tooltips
     # - header.autohide
     # - navigation.expand
-    - navigation.indexes
+    # - navigation.indexes
     # - navigation.instant
     # - navigation.prune
     # - navigation.sections
