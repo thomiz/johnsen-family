@@ -5,6 +5,7 @@ site_author: Thomas T Rsoenlund
 nav:
     - Johnsen: 'index.md'
     - Wiese: 'wiese-grenen.md'
+    - Wiese2: 'wiese-grenen-new.md'
     
 theme:
   name: material
