@@ -60,7 +60,8 @@ rectangle "Kirsten Wiese Rosenlund (1918-1994)\nJohan C. Rosenlund (1911-1989)" 
 rectangle "Randi Christensen (1940)\nAndreas Møller Christensen (1942)" as RCAM $wiese
 rectangle "Ida Margrethe Knudsen (1942)\nJon Helge Knudsen (1938)" as IMKJ $wiese
 rectangle "Jan Christopher Rosenlund (1946)\nEli Tveit Rosenlund (1944)" as JCRE $wiese
-rectangle ""
+rectangle "Tone Tveit Rosenlund (1972)\nKnut Olav Nyhus Olsen (1972)" as TTRK $wiese
+rectangle "Thomas Tveit Rosenlund (1974)\nSolveig Svantesen (1975)" as TTRS $wiese
 
 MJJJ <|-- RWFW
 RWFW <|-up- MJSM
@@ -73,6 +74,8 @@ RWFW <|-down- KWRJ
 KWRJ <|-- RCAM
 KWRJ <|-- IMKJ
 KWRJ <|-- JCRE
+JCRE <|-- TTRK
+JCRE <|-- TTRS
 
 remove *
 restore $wiese
