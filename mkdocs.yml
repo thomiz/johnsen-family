@@ -1,0 +1,73 @@
+site_name: Johnsen family tree
+repo_url: https://github.com/thomiz/test-IG/family-tree
+repo_name: thomiz/test-IG/family-tree
+site_author: Thomas T Rsoenlund
+nav:
+    - Johnsen: 
+      - index.md 
+      - Wiese: wiese-grenen.md
+    
+theme:
+  name: material
+  #logo: logo/ehelse-hvit.svg
+  #custom_dir: material/.overrides
+  features:
+    # - navigation.path #sponsorfeature
+    # - announce.dismiss
+    - content.code.annotate
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    # - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  #icon:
+  #  repo: fontawesome/brands/git-alt
+  #favicon: logo/ehelse-hvit.png
+markdown_extensions:
+  - mdx_truly_sane_lists
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - attr_list
+  #icon:
+  #  logo: logo
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: datetime
+  - plantuml:
+        puml_url: https://www.plantuml.com/plantuml/
+  #- with-pdf:
+   #   cover_subtitle: "currentversion"
+    #  copyright: ""
+      # two_columns_level: 3
+     # output_path: ./pdf/malarkitektur.pdf
