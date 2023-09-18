@@ -32,4 +32,3 @@ remove *
 restore $wiese
 @enduml
 ```
-``` puml
