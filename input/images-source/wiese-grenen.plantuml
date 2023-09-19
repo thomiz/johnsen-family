@@ -13,7 +13,7 @@ rectangle "Jan Christopher Rosenlund (1946)\nEli Tveit Rosenlund (1944)" as JCRE
 rectangle "Tone Tveit Rosenlund (1972)\nKnut Olav Nyhus Olsen (1972)" as TTRK $wiese
 rectangle "Thomas Tveit Rosenlund (1974)\nSolveig Svantesen (1975)" as TTRS $wiese
 
-MJJJ <|-- RWFW
+MJJJ <|-right- RWFW
 RWFW <|-up- MJSM
 MJSM <|-up- UWMB
 MJSM <|-up- FWBR
@@ -27,6 +27,4 @@ KWRJ <|-- JCRE
 JCRE <|-- TTRK
 JCRE <|-- TTRS
 
-remove *
-restore $wiese
 @enduml
