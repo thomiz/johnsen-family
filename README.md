@@ -18,3 +18,7 @@ Prøve andre plugins?
 ```
 
 The Johnsen trunk tree.
+
+## direct integration test
+
+![Wiese grenen](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/thomiz/johnsen-family/master/wiese-grenen.plantuml)
