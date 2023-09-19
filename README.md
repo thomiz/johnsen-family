@@ -19,7 +19,7 @@ Prøve andre plugins?
 
 The Johnsen trunk tree.
 
-1[Johnsen trunk tree](http://www.plantuml.com/plantuml/svg/FSuz3i8m30NWFQVmd5DK382GMEZ0R3LMugfraEs50t2dxhaOIldPx4-otnlCKNrbIIi-GeGhQbRoGd2fHOm4QkuZYf3zBCG8DvJ4S6SowcjxvUfmcacjRLtsJmZZLDhs_9oCd9KJ7DccGjhbm9hPuOo-KAdBJZEg_DF3G9A-xTu0)
+![Johnsen trunk tree](http://www.plantuml.com/plantuml/svg/FSuz3i8m30NWFQVmd5DK382GMEZ0R3LMugfraEs50t2dxhaOIldPx4-otnlCKNrbIIi-GeGhQbRoGd2fHOm4QkuZYf3zBCG8DvJ4S6SowcjxvUfmcacjRLtsJmZZLDhs_9oCd9KJ7DccGjhbm9hPuOo-KAdBJZEg_DF3G9A-xTu0)
 
 ## direct integration test
 
