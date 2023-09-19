@@ -34,5 +34,5 @@ The Johnsen trunk tree.
 
 #### Source
 
-https://github.com/thomiz/johnsen-family/blob/master/input/images-source/wiese-grenen.plantuml#L1-L16
+https://github.com/thomiz/johnsen-family/blob/master/input/images-source/wiese-grenen.plantuml
 
