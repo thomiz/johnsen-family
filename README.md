@@ -23,4 +23,4 @@ The Johnsen trunk tree.
 
 ![Wiese grenen](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/thomiz/johnsen-family/master/input/images-source/wiese-grenen-mind.puml)
 
-![Wiese grenen](http://www.plantuml.com/plantuml/proxy/svg?cache=no&src=https://raw.githubusercontent.com/thomiz/johnsen-family/master/input/images-source/wiese-grenen.plantuml)
+![Wiese grenen](http://www.plantuml.com/plantuml/svg/1S7B4G8n203GkrLe0LdkTeCH4nmW6JwpezNlUm-sBlMcShdFp1rFWC4vwtNqfP1pAV_XkwO5MVkWilp0yGJ5I79WsvN0YeEYnIhl12TJK1jEHdPiGSjIkLq0)
