@@ -22,3 +22,5 @@ The Johnsen trunk tree.
 ## direct integration test
 
 ![Wiese grenen](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/thomiz/johnsen-family/master/input/images-source/wiese-grenen-mind.puml)
+
+![Wiese grenen](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/thomiz/johnsen-family/master/input/images-source/wiese-grenen.plantuml)
