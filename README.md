@@ -33,9 +33,11 @@ The Johnsen trunk tree.
 ![Wiese grenen](http://www.plantuml.com/plantuml/svg/1S7B4G8n203GkrLe0LdkTeCH4nmW6JwpezNlUm-sBlMcShdFp1rFWC4vwtNqfP1pAV_XkwO5MVkWilp0yGJ5I79WsvN0YeEYnIhl12TJK1jEHdPiGSjIkLq0)
 
 Proxy må ta utgangspunkt i en enkel plantuml med include av kildekoden til diagrammet du vil vise 
-'''puml
+```puml
+@startuml
 !include https://raw.githubusercontent.com/thomiz/johnsen-family/master/input/images-source/wiese-grenen-mind.puml
-'''
+@enduml
+```
 
 #### Source
 
